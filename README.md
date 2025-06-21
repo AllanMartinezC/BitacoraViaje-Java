@@ -1,11 +1,11 @@
 # 🗒️ Bitácora de Viaje
 
-Aplicación de escritorio desarrollada en **Java** que permite registrar, clasificar y gestionar entradas personales en una bitácora digital.
+Aplicación de escritorio desarrollada en **Java** que permite registra ry gestionar entradas personales en una pequeña bitácora digital.
 
-## ✨ Características principales
+## ✨ Características 
 
 - Añadir reflexiones u observaciones diarias.
-- Clasificación por categoría: Personal, Espiritual, Negocio, etc.
+- Clasificación por categoría: Personal, Espiritual, Estudios, etc.
 - Búsqueda de entradas por texto.
 - Eliminación de entradas seleccionadas.
 - Exportación de registros.
@@ -26,11 +26,11 @@ Este proyecto fue creado como una práctica de programación orientada a objetos
 
 ### Modo Claro
 
-![Modo Claro](images/modo-claro.png)
+![Modo Claro](src/images/modo-claro.png)
 
 ### Modo Oscuro
 
-![Modo Oscuro](images/modo-oscuro.png)
+![Modo Oscuro](src/images/modo-oscuro.png)
 
 > 💡 El modo oscuro está integrado como una funcionalidad que mejora la experiencia visual y es activable desde el menú lateral.
 
