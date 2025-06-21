@@ -1,18 +1,48 @@
-## Getting Started
+# 🗒️ Bitácora de Viaje
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Aplicación de escritorio desarrollada en **Java** que permite registrar, clasificar y gestionar entradas personales en una bitácora digital.
 
-## Folder Structure
+## ✨ Características principales
 
-The workspace contains two folders by default, where:
+- Añadir reflexiones u observaciones diarias.
+- Clasificación por categoría: Personal, Espiritual, Negocio, etc.
+- Búsqueda de entradas por texto.
+- Eliminación de entradas seleccionadas.
+- Exportación de registros.
+- Estadísticas visuales del contenido registrado.
+- Cambio dinámico de tema (claro/oscuro).
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 📚 Cómo usar
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+1. Clonar el repositorio.
+2. Compilar y ejecutar el archivo principal (`BitacoraApp.java`).
+3. Comenzar a registrar tus entradas desde la interfaz.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🎯 Objetivo
 
-## Dependency Management
+Este proyecto fue creado como una práctica de programación orientada a objetos con interfaz gráfica en Java, enfocado en la organización personal y el registro de experiencias.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 🖼️ Capturas de pantalla
+
+### Modo Claro
+
+![Modo Claro](ruta/a/la/imagen-clara.png)
+
+### Modo Oscuro
+
+![Modo Oscuro](ruta/a/la/imagen-oscura.png)
+
+> 💡 El modo oscuro está integrado como una funcionalidad que mejora la experiencia visual y es activable desde el menú lateral.
+
+## 🛠️ Tecnologías utilizadas
+
+- **Java (Swing)** para la interfaz gráfica.
+- **POO (Programación Orientada a Objetos)** como base de la estructura del código.
+- Manejo de archivos txt para guardar entradas localmente.
+
+
+---
+
+Si querés ver el código fuente, podés visitar la carpeta `src/`.
+
+---
