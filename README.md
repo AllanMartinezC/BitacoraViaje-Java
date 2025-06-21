@@ -1,6 +1,6 @@
 # 🗒️ Bitácora de Viaje
 
-Aplicación de escritorio desarrollada en **Java** que permite registra ry gestionar entradas personales en una pequeña bitácora digital.
+Aplicación de escritorio desarrollada en **Java** que permite registrar y gestionar entradas personales en una pequeña bitácora digital.
 
 ## ✨ Características 
 
@@ -43,6 +43,6 @@ Este proyecto fue creado como una práctica de programación orientada a objetos
 
 ---
 
-Si querés ver el código fuente, podés visitar la carpeta `src/`.
+Para ver el código fuente, puedes visitar la carpeta `src/`.
 
 ---
