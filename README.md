@@ -26,11 +26,11 @@ Este proyecto fue creado como una práctica de programación orientada a objetos
 
 ### Modo Claro
 
-![Modo Claro](ruta/a/la/imagen-clara.png)
+![Modo Claro](images/modo-claro.png)
 
 ### Modo Oscuro
 
-![Modo Oscuro](ruta/a/la/imagen-oscura.png)
+![Modo Oscuro](images/modo-oscuro.png)
 
 > 💡 El modo oscuro está integrado como una funcionalidad que mejora la experiencia visual y es activable desde el menú lateral.
 
